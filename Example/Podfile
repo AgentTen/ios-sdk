@@ -7,6 +7,4 @@ end
 
 target 'ZingleSDK_Tests', :exclusive => true do
   pod 'ZingleSDK', :path => '../'
-
-  
 end

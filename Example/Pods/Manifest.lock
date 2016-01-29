@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (3.1.5)
+  - SwiftyJSON (2.3.2)
+  - ZingleSDK (0.1.0):
+    - Alamofire (~> 3.1)
+    - SwiftyJSON (~> 2.3)
+
+DEPENDENCIES:
+  - ZingleSDK (from `../`)
+
+EXTERNAL SOURCES:
+  ZingleSDK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  ZingleSDK: 16768a91993365c0f59cc7535d7fb5c299111c1c
+
+COCOAPODS: 0.39.0
